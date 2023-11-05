@@ -55,3 +55,8 @@
     font-family: root-font;
     src: url(./root-font.ttf);
   }  
+
+  body::-webkit-scrollbar
+  {
+    display: none;
+  }
